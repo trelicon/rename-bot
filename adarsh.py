@@ -4,7 +4,7 @@
 # © code-x-mania
 
 import os, logging
-from root.config import Config
+from adarsh.config import Config
 from logging.handlers import RotatingFileHandler
 from pyrogram import Client
 
